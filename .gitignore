@@ -1,0 +1,23 @@
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# Model weights (Large files should be downloaded via script)
+*.pt
+models/yolo/*.pt
+yolov8x.pt
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Streamlit logs
+.streamlit/
