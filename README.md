@@ -74,8 +74,8 @@ This project serves as a foundation for deeper exploration into:
 
 ---
 
-## 🎓 Scholarship Note
-This project demonstrates a comprehensive mastery of the end-to-end AI pipeline—from data acquisition and specialized model integration to cross-modal reasoning and professional deployment. It aligns directly with international research trends in **Intelligent Urban Systems** and **Automated Emergency Response.**
+## 🎓 Note
+This project demonstrates a comprehensive mastery of the end-to-end AI pipelinefrom data acquisition and specialized model integration to cross-modal reasoning and professional deployment. It aligns directly with international research trends in **Intelligent Urban Systems** and **Automated Emergency Response.**
 
 ---
 **© 2025 Muhammad Touseeq. All Rights Reserved.**
