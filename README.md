@@ -10,10 +10,10 @@
 ## 🖼️ Visual Intelligence Preview
 To demonstrate the system's cross-modal capabilities, below are sample incident scenarios processed by the CityGuard AI engine:
 
-| Traffic Monitoring | Congestion Detection | Fire/Smoke Intelligence |
+| Accident Detection Case I | Accident Detection Case II | Global Fire Intelligence |
 |:---:|:---:|:---:|
-| ![Traffic](sample_data/images/sample_traffic.jpg) | ![Congestion](sample_data/images/sample_congestion.jpg) | ![Fire](sample_data/images/sample_fire.jpg) |
-| *Normal traffic flow analysis using YOLOv8x* | *Gridlock detection using movement history* | *High-fidelity detection via specialized model* |
+| ![Accident 1](results/accident.png) | ![Accident 2](results/accindent2.png) | ![Fire](results/fire%20incident.png) |
+| *Severe collision detection with neural risk mapping* | *Geometric incident grounding and NLP reporting* | *Active fire detection via specialized neural engine* |
 
 ---
 
