@@ -1,6 +1,6 @@
 # CityGuard AI: Multimodal Urban Intelligence System
 ### Research by: Muhammad Touseeq
-**Email:** mtouseeq@gmail.com |
+**Email:** mtouseeq20@gmail.com |
 
 ---
 
